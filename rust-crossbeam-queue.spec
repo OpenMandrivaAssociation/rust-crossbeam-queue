@@ -5,8 +5,8 @@
 %global crate crossbeam-queue
 
 Name:           rust-%{crate}
-Version:        0.2.1
-Release:        2%{?dist}
+Version:        0.3.13
+Release:        1%{?dist}
 Summary:        Concurrent queues
 
 # Upstream license specification: MIT/Apache-2.0 AND BSD-2-Clause
